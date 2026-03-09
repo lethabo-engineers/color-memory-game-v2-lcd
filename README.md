@@ -13,3 +13,5 @@ Arduino Mega Simon-style color memory game upgraded with a **16x2 LCD** for scor
 ## Demo / Photos
 ![Final build](./images/final_build_v2.jpg)
 
+ignore the hand gesture on screen, the circuit is the same just had a differnt code running check out the hand gesture project next.
+
