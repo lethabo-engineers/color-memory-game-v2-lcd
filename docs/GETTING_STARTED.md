@@ -35,7 +35,7 @@ This is **Version 2** of the Arduino Mega color memory game. The goal is to keep
 - BTN2 → D7  
 - BTN3 → D8  
 - BTN4 → D9  
-> Pressed = LOW, Released = HIGH
+
 
 ### LCD 
 - RS  → (pick a free pin)
