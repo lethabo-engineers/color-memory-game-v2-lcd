@@ -9,7 +9,6 @@ Arduino Mega Simon-style color memory game upgraded with a **16x2 LCD** for scor
 
 ## Documentation
 - [Getting Started (Build + Wiring + Pin Map)](docs/GETTING_STARTED.md)
-- ![Demo](images/hand_gesture_led_control_demo.jpg)
 
 [Watch the demo on TikTok](https://www.tiktok.com/@l3thabo_o)
 
