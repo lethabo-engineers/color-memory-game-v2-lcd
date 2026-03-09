@@ -3,7 +3,7 @@
 ## Build
 
 ### Final build
-![Final build](./images/final_build_v2.jpg)
+![Final build](../images/final_build_v2.jpg)
 
 ### Wiring overview
 ![Wiring overview](../images/WIRING_OVERVIEW_V2.jpg)
